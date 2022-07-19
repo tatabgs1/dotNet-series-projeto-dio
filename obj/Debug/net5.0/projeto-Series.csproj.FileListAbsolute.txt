@@ -1,0 +1,16 @@
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\projeto-Series.csproj.AssemblyReference.cache
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\projeto-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\projeto-Series.AssemblyInfoInputs.cache
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\projeto-Series.AssemblyInfo.cs
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\projeto-Series.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\bin\Debug\net5.0\projeto-Series.exe
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\bin\Debug\net5.0\projeto-Series.deps.json
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\bin\Debug\net5.0\projeto-Series.runtimeconfig.json
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\bin\Debug\net5.0\projeto-Series.runtimeconfig.dev.json
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\bin\Debug\net5.0\projeto-Series.dll
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\bin\Debug\net5.0\ref\projeto-Series.dll
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\bin\Debug\net5.0\projeto-Series.pdb
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\projeto-Series.dll
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\ref\projeto-Series.dll
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\projeto-Series.pdb
+C:\Users\Rafa\Documents\DigitalOne\projeto-Series\obj\Debug\net5.0\projeto-Series.genruntimeconfig.cache
